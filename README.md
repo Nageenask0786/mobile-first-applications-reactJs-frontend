@@ -45,10 +45,9 @@ This package helps you to use icons in your react project.
 For displaying a loader when the Api response is in progress
 Helps for a seamless navigation between various routes in a single page.
 ## Use the below user credentials to login
-  const userDetails = {
-        username : "Nageena",
-        password : "Nageena@123"
-    }
+  username : "Nageena",
+  password : "Nageena@123"
+    
     
 
 
